@@ -4,7 +4,7 @@ A Freelancer Finder project connects clients with freelancers based on required 
 -> https://drive.google.com/drive/folders/1_o7fKyMsaHVeMXh5BNQH8twcfwmztwk9?usp=sharing
 <br>
 Download this zip file and access at your local mechine
-
+<br>
 🛠 Tech Stack
 Frontend: React.js, Bootstrap, Material UI, Axios
 Backend: Node.js, Express.js, MongoDB, Mongoose
@@ -19,9 +19,6 @@ Tools: Postman, MongoDB Compass, VS Code
 📦 Setup Instructions
 Prerequisites
 Node.js, MongoDB, Git
-Installation
-git clone https://github.com/Harithasaibarma/freelancer_finder.git
-cd freelancer-app-MERN
 
 # Install frontend dependencies
 cd client && npm install
